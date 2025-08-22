@@ -16,6 +16,7 @@ class Lino < Formula
         url "https://github.com/CGI-FR/LINO/releases/download/v#{version}/LINO_#{version}_linux_386.tar.gz"
         sha256 "e1b37706c8fffa51b663257012b7d9a123272a19beffe39dfb2911528a2bf066"
       end
+    end
   end
 
   def install
